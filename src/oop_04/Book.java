@@ -24,16 +24,7 @@ public class Book {
     public void setContent(){
         this.content = content;
     }
-
-//    @Override
-//    public String toString() {
-//        return "Book{" +
-//                "title='" + title + '\'' +
-//                ", content='" + content + '\'' +
-//                '}';
-//    }
-
-
+    
     @Override
     public String toString() {
         return "Book{" +
